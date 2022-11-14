@@ -1,0 +1,462 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+/* Images for the background paralax effect*/
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6,.bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16, .bgimg-17, .bgimg-18, .bgimg-19, .bgimg-20, .bgimg-21, .bgimg-22, .bgimg-23, .bgimg-24, .bgimg-25, .bgimg-26, .bgimg-27, .bgimg-28, .bgimg-29, .bgimg-30, .bgimg-31, .bgimg-32, .bgimg-33,.bgimg-34, .bgimg-35, .bgimg-36, .bgimg-37, .bgimg-38, .bgimg-39, .bgimg-40, .bgimg-41, .bgimg-42, .bgimg-43, .bgimg-44, .bgimg-45, .bgimg-46, .bgimg-47, .bgimg-48, .bgimg-49, .bgimg-50, .bgimg-51, .bgimg-52, .bgimg-53, .bgimg-54, .bgimg-55, .bgimg-60, .bgimg-70{
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bgimg-1 {
+  background-image: url("../Images/Japan pics/Japan flag.jpg");
+  min-height: 700px;
+}
+
+.bgimg-2 {
+  background-image: url("../Images/Japan pics/Honshu wall.jpg");
+  min-height: 700px;
+}
+
+.bgimg-3 {
+  background-image: url("../Images/Japan pics/Hokkaido.jpeg");
+  min-height: 700px;
+}
+
+.bgimg-4 {
+  background-image: url("../Images/Japan pics/kyushu.jpg");
+  min-height: 700px;
+}
+
+.bgimg-5 {
+  background-image: url("https://wallpaperplay.com/walls/full/d/a/7/160629.jpg");
+  min-height: 700px;  
+}
+
+.bgimg-6 {
+  background-image: url("../Images/Japan pics/Shikoku.jpg");
+  min-height: 700px;
+}
+
+.bgimg-45 {
+  background-image: url("../Images/Japan pics/kyushu 1.jpg");
+  min-height: 700px;
+}
+
+.bgimg-46 {
+  background-image: url("../Images/Japan pics/Japan 400.jpeg");
+  min-height: 700px;
+}
+
+.bgimg-47 {
+  background-image: url("../Images/Japan pics/Japan 401.jpeg");
+  min-height: 700px;
+}
+
+.bgimg-48 {
+  background-image: url("../Images/Japan pics/Japan 402.jpg");
+  min-height: 700px;
+}
+
+
+.bgimg-49 {
+  background-image: url("../Images/Japan pics/Japan 403.jpg");
+  min-height: 700px;
+}
+
+.bgimg-50 {
+  background-image: url("../Images/Japan pics/Japan 405.jpg");
+  min-height: 700px;
+}
+
+.bgimg-51 {
+  background-image: url("../Images/Japan pics/Japan 406.jpg");
+  min-height: 700px;
+}
+
+.bgimg-52 {
+  background-image: url("../Images/Japan pics/Japan 407.jpg");
+  min-height: 700px;
+}
+
+.bgimg-53 {
+  background-image: url("../Images/Japan pics/Japan 408.jpg");
+  min-height: 700px;
+}
+
+.bgimg-54 {
+  background-image: url("../Images/Japan pics/Japan 409.jpg");
+  min-height: 700px;
+}
+
+.bgimg-55 {
+  background-image: url("../Images/Japan pics/Japan 410.jpeg");
+  min-height: 700px;
+}
+
+
+
+
+
+
+
+.bgimg-7 {
+  background-image: url("../Images/San Francisco/San Francisco wall.jpg");
+  min-height: 750px;
+}
+
+.bgimg-8 {
+  background-image: url("../Images/San Francisco/GG Bridge.jpg");
+  min-height: 700px;
+}
+
+.bgimg-9 {
+  background-image: url("../Images/San Francisco/Alcatraz.jpg");
+  min-height: 700px;
+}
+
+.bgimg-10 {
+  background-image: url("../Images/San Francisco/Cable cars.jpg");
+  min-height: 700px;
+}
+
+.bgimg-11 {
+  background-image: url("../Images/San Francisco/Cable cars 2.jpg");
+  min-height: 700px;
+}
+
+.bgimg-12 {
+  background-image: url("../Images/San Francisco/Cable cars 3.jpg");
+  min-height: 700px;
+}
+
+.bgimg-13 {
+  background-image: url("../Images/San Francisco/Cap San.jpg");
+  min-height: 700px;
+}
+
+.bgimg-14 {
+  background-image: url("../Images/San Francisco/Overview San.jpg");
+  min-height: 700px;
+}
+
+.bgimg-15 {
+  background-image: url("../Images/San Francisco/San FranciscoGG.jpg");
+  min-height: 700px;
+}
+.bgimg-25 {
+  background-image: url("../Images/San Francisco/San Francisco 2.jpg");
+  min-height: 700px;
+}
+
+.bgimg-26 {
+  background-image: url("../Images/San Francisco/San Francisco 3.jpg");
+  min-height: 700px;
+}
+
+.bgimg-27 {
+  background-image: url("../Images/San Francisco/San Francisco 4.jpg");
+  min-height: 700px;
+}
+
+.bgimg-28 {
+  background-image: url("../Images/San Francisco/San Francisco 5.jpg");
+  min-height: 700px;
+}
+
+.bgimg-29 {
+  background-image: url("../Images/San Francisco/Cable cars 4.jpg");
+  min-height: 700px;
+}
+
+.bgimg-30 {
+  background-image: url("../Images/San Francisco/Cable cars 5.jpg");
+  min-height: 700px;
+}
+
+.bgimg-31 {
+  background-image: url("../Images/San Francisco/Cable cars 6.jpg");
+  min-height: 700px;
+}
+
+.bgimg-70 {
+  background-image: url("../Images/San Francisco/San Fran 601.jpg");
+  min-height: 700px;
+}
+
+
+
+
+
+
+.bgimg-18 {
+  background-image: url("../Images/Amsterdam/Amster dam.jpg");
+  min-height: 700px;
+}
+
+.bgimg-19 {
+  background-image: url("../Images/Amsterdam/Amsterdam.jpg");
+  min-height: 700px;
+}
+
+.bgimg-32 {
+  background-image: url("../Images/Amsterdam/Amsterdam 1.jpg");
+  min-height: 700px;
+}
+
+.bgimg-33 {
+  background-image: url("../Images/Amsterdam/Amsterdam 2.jpg");
+  min-height: 700px;
+}
+
+.bgimg-34 {
+  background-image: url("../Images/Amsterdam/Amsterdam 3.jpg");
+  min-height: 700px;
+}
+
+.bgimg-35 {
+  background-image: url("../Images/Amsterdam/Amsterdam 4.jpg");
+  min-height: 700px;
+}
+
+.bgimg-36 {
+  background-image: url("../Images/Amsterdam/Amsterdam 5 Van.jpg");
+  min-height: 700px;
+}
+
+.bgimg-37 {
+  background-image: url("../Images/Amsterdam/Amsterdam 6.jpg");
+  min-height: 700px;
+}
+
+.bgimg-38 {
+  background-image: url("../Images/Amsterdam/Amsterdam 7 eye.jpg");
+  min-height: 700px;
+}
+
+
+
+
+
+
+.bgimg-20 {
+  background-image: url("../Images/HOLIDAY DESTINATIONS.png");
+  min-height: 100%;
+}
+
+
+
+
+
+.bgimg-16 {
+  background-image: url("../Images/Venice/Venice.jpg");
+  min-height: 700px;
+}
+
+.bgimg-17 {
+  background-image: url("../Images/Venice/Venice wall.jpg");
+  min-height: 700px;
+}
+
+.bgimg-21 {
+  background-image: url("../Images/Venice/Venice 1.jpg");
+  min-height: 700px;
+}
+
+.bgimg-22 {
+  background-image: url("../Images/Venice/Venice 2.jpg");
+  min-height: 700px;
+}
+
+.bgimg-39 {
+  background-image: url("../Images/Venice/Venice 3.jpg");
+  min-height: 700px;
+}
+
+.bgimg-40 {
+  background-image: url("../Images/Venice/Venice 4.jpg");
+  min-height: 700px;
+}
+
+.bgimg-41 {
+  background-image: url("../Images/Venice/Venice 5.jpg");
+  min-height: 700px;
+}
+
+.bgimg-42 {
+  background-image: url("../Images/Venice/Venice 6.jpg");
+  min-height: 700px;
+}
+
+.bgimg-43 {
+  background-image: url("../Images/Venice/Venice 7.jpg");
+  min-height: 700px;
+}
+
+.bgimg-44 {
+  background-image: url("../Images/Venice/Venice 8.jpg");
+  min-height: 700px;}
+
+
+
+.bgimg-23 {
+  background-image: url("../Images/Venice/Venice bridge.jpg");
+  min-height: 700px;
+}
+
+.bgimg-24 {
+  background-image: url("../Images/Venice/Venice wallpaper.jpg");
+  min-height: 700px;
+}
+
+.bgimg-60 {
+  background-image: url("../Images/Venice/Venice 501.jpg");
+  min-height: 700px;
+}
+
+@media(max-width:568px) 
+{
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16, .bgimg-17, .bgimg-18, .bgimg-19, .bgimg-20, .bgimg-21, .bgimg-22, .bgimg-23, .bgimg-24, .bgimg-25, .bgimg-26, .bgimg-27, .bgimg-28, .bgimg-29, .bgimg-30, .bgimg-31, .bgimg-32, .bgimg-33,.bgimg-34, .bgimg-35, .bgimg-36, .bgimg-37, .bgimg-38, .bgimg-39, .bgimg-40, .bgimg-41, .bgimg-42, .bgimg-43, .bgimg-44, .bgimg-45, .bgimg-46, .bgimg-47, .bgimg-48, .bgimg-49, .bgimg-50, .bgimg-51, .bgimg-52, .bgimg-53, .bgimg-54, .bgimg-55, .bgimg-60, .bgimg-70
+  {
+    background-attachment:scroll;
+
+  }
+  
+}
+/*styling for the caption over text*/
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
+/*styling for buttons on the home page*/
+
+.Japan {
+  border-color: rgb(255, 0, 0);
+  color: rgb(0, 255, 0);
+}
+
+.Japan:hover {
+  background-color: #b2020273;
+  color: rgb(0, 0, 0);
+}
+
+
+.SanFrancisco {
+  border-color: #ae00ff;
+  color: #1100ff;
+}
+
+.SanFrancisco:hover {
+  background: #6404ff73;
+  color: #000000;
+}
+
+
+.Amsterdam {
+  border-color: #00ff0d73;
+  color: #00fff2;
+}
+
+.Amsterdam:hover {
+  background: #00800073;
+  color: rgb(0, 0, 0);
+}
+
+
+.Venice {
+  border-color: #ffd900;
+  color: #ff8800;
+}
+
+.Venice:hover {
+  background: #fafa0073;
+  color: rgb(0, 0, 0);
+}
+
+
+button 
+{
+  margin-top: 340px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: static;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+
+
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+
+
+
+
